@@ -1,3 +1,3 @@
 name = "floral-fog-6632"
-main = "src/index.ts"
-compatibility_date = "2025-05-17"
+main = "src/page.html"
+compatibility_date = "5-18-2025"
