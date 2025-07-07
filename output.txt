@@ -1,0 +1,24 @@
+                     ..'          ##############@Westleys-MacBook-Pro-2
+                 ,xNMM.           -------------------------------------
+               .OMMMMo            OS: macOS Tahoe 26.0 arm64
+               lMM"               Host: MacBook Pro (14-inch, 2024, Three Thunde
+     .;loddo:.  .olloddol;.       Kernel: Darwin 25.0.0
+   cKMMMMMMMMMMNWMMMMMMMMMM0:     Uptime: 4 days, 19 hours, 56 mins
+ .KMMMMMMMMMMMMMMMMMMMMMMMWd.     Packages: 1 (brew)
+ XMMMMMMMMMMMMMMMMMMMMMMMX.       Shell: zsh 5.9
+;MMMMMMMMMMMMMMMMMMMMMMMM:        Display (Color LCD): 3024x1964 @ 120 Hz (as 15
+:MMMMMMMMMMMMMMMMMMMMMMMM:        DE: Liquid Glass
+.MMMMMMMMMMMMMMMMMMMMMMMMX.       WM: Quartz Compositor 329
+ kMMMMMMMMMMMMMMMMMMMMMMMMWd.     WM Theme: Green (Dark)
+ 'XMMMMMMMMMMMMMMMMMMMMMMMMMMk    Font: .AppleSystemUIFont [System], Helvetica [
+  'XMMMMMMMMMMMMMMMMMMMMMMMMK.    Cursor: Fill - Black, Outline - White (47px)
+    kMMMMMMMMMMMMMMMMMMMMMMd      Terminal: Apple Terminal 461
+     ;KMMMMMMMWXXWMMMMMMMk.       Terminal Font: SFMono-Regular (11pt)
+       "cooc*"    "*coo'"         CPU: Apple M4 Pro (14) @ 4.51 GHz
+                                  GPU: Apple M4 Pro (20) @ 1.58 GHz [Integrated]
+                                  Memory: 13.39 GiB / 24.00 GiB (56%)
+                                  Swap: Disabled
+                                  Disk (/): 128.54 GiB / 926.32 GiB (14%) - apfs
+                                  Local IP (en0): ##.#.#.###/##
+                                  Battery (bq40z651): 95% (5 hours, 46 mins rema
+                                  Locale: en_US.UTF-8
