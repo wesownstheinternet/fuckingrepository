@@ -26,14 +26,16 @@
       height: auto;
     }
 
-    hr {
-  border: none !important;
-  background-color: white !important;
+ hr {
+   border: none;
+  background-color: white;
+  color: white; /* extra fallback for some browsers */
   height: 2px;
-  width: 80%;
-  margin: 20px 0;
-  display: block;
-    }
+  width: 80vw; /* use viewport width instead of percentage of flex container */
+  min-width: 200px; /* prevent it from shrinking to nothing */
+  margin: 20px auto;
+  flex-shrink: 0; /* don't let flexbox shrink it */
+}
   </style>
 </head>
 <body>
