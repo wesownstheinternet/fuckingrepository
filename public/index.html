@@ -5,29 +5,36 @@
   <title>Waystar On-Line</title>
   <link rel="icon" type="image/x-icon" href="starburst.png">
   <style>
-    body {
-      background-color: black;
-      color: White;
-      font-family: "Times New Roman", serif;
+    html, body {
+      height: 100%; /* page height */
+      margin: 0;
+      padding: 0;
+      background-color: black; /* background color */
+      color: white;
+      font-family: "Times New Roman", serif; /* font */
       font-size: 45px;
-      display: table-cell;
-        vertical-align: middle;
-      height: 100%;
-      margin: 500px;
+      
+      display: flex;
+      flex-direction: column;
+      align-items: center;     /* Horizontal center */
+      justify-content: center; /* Vertical center */
+      text-align: center;      /* Center text inside elements */
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
     }
   </style>
 </head>
 <body>
-<h1>Waystar On-Line</h1>
+  <h1>Waystar On-Line</h1>
   <hr>
-  <img src="webss9sj.png">
-  <br>
-  <br>
-  <br>
-  <br>
-  <p>Welcome to the Waystar On-Line Services Portal!<br>
-  Failed to load content.<br>
-  <br>
-  Copyright &copy Waystar Corporation, Ltd. 1994. All rights reserved.</p>
+  <img src="webss9sj.png" alt="Waystar On-Line Logo">
+  <p>
+    Welcome to the Waystar On-Line Services Portal!<br>
+    Failed to load content.<br><br>
+    Copyright &copy; Waystar Corporation, Ltd. 1994-2025. All rights reserved.
+  </p>
 </body>
 </html>
