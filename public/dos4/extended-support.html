@@ -22,14 +22,11 @@
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  align-items: center;      /* Center child elements horizontally */
-  justify-content: center;  /* Center vertically if space allows */
-  text-align: center;       /* Center text within each element */
+  align-items: center;   /* Only horizontally centers items */
+  /* Remove vertical centering: no justify-content */
+  text-align: center;
 }
-      /* <!--No clue what any of this shit does lol my fault if it breaks--> */
-    }
-
-    img {
+   img {
       max-width: 100%;
       height: auto;
     }
